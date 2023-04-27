@@ -1,0 +1,78 @@
+body {
+    margin: 0px;
+    background: #1C1C1C;
+    color: white;
+    
+}
+
+#container {
+    background: #1F2937;
+    width: 510px;
+    height: 550px;
+    margin: 64px auto;
+    padding-top: 100px;
+    padding-left: 52px;
+    padding-right: 52px;
+}
+
+#heading {
+    font-size: 40px;
+    font-weight: 800;
+    margin-right: 100px;
+}
+#heading2 {
+    color: #D5D4D8;
+    font-size: 20px;
+}
+#heading-green {
+    color: #4ADF86;
+}
+ 
+#btn-pass {
+    background: #10B981;
+    margin-top: 51px;
+    padding: 9px 17px 9px 15px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-weight: lighter;
+}
+
+#btn-pass:hover {
+    background: #065f46;
+    
+}
+
+#divider {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    width: 406px;
+    border: 1px solid #2F3E53;
+    padding-left: 100px;
+}
+
+.generated-pass{ 
+    background: #273549;
+    border: 1px none white;
+    width: 211px;
+    font-size: 15px;
+    font-weight: 500px;
+    text-align: center;
+    padding: 8px 16px 8px 15px;
+    color: #55F991;
+    border: none;
+    border-radius: 5px;
+}
+
+#password-section {
+    display: flex;
+    
+}
+
+#first-password {
+    margin-right: 25px;
+    
+}
+second-password {
+ 
+}
